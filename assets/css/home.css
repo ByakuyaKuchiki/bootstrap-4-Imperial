@@ -468,3 +468,7 @@ p{
 .portfolio .container{
     float: inherit;
 }
+
+.subscribe .container{
+    height: 0;
+}
